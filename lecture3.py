@@ -36,7 +36,7 @@ else:
 #while loop
 num = 1
 while num <=5:
-    print num
+    print (num)
     num += 1
     
 responses = ('1','2','3')
